@@ -13,6 +13,10 @@ I'm a third year computer engineering student passionate about full-stack develo
 
 [Java,C,C++,JAVA ]
 
+## 👀 Most Used Languages 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitabansode05&layout=compact)
+
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitabansode05&show_icons=true&hide_title=true)
