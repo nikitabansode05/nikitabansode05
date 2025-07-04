@@ -4,14 +4,14 @@ I'm a third year computer engineering student passionate about full-stack develo
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [Your current project or learning goal]
+- 🔭 I’m currently working on: [TFL Assesment]
 - 🌱 I’m learning: [C,C++,C#,JAVA,Node JS]
 - 📫 How to reach me: [www.linkedin.com/in/nikita-bansode05]
 - ⚡ Fun fact: [Developer with an artistic mind]
 
 ## 🛠️ Languages & Tools
 
-![Java,C,C++,JAVA ]
+[Java,C,C++,JAVA ]
 
 ## 📈 GitHub Stats
 
