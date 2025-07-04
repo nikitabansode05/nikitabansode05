@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikita Bansode
 
-I'm a third year computer engineering student passionate about full-stack development and polyglot development.
+I'm a third year computer engineering student passionate about full-stack development .
 
 ## 🚀 About Me
 
