@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Nikita Bansode
 
-<!--
-**nikitabansode05/nikitabansode05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third year computer engineering student passionate about full-stack development and polyglot development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: [Your current project or learning goal]
+- 🌱 I’m learning: [C,C++,C#,JAVA,Node JS]
+- 📫 How to reach me: [www.linkedin.com/in/nikita-bansode05]
+- ⚡ Fun fact: [Developer with an artistic mind]
+
+## 🛠️ Languages & Tools
+
+![Java,C,C++,JAVA ]
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitabansode05&show_icons=true&hide_title=true)
+
+## 🌐 Connect with me
+
+[www.linkedin.com/in/nikita-bansode05] • 
