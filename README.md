@@ -17,6 +17,14 @@ I'm a third year computer engineering student passionate about full-stack develo
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitabansode05&show_icons=true&hide_title=true)
 
+## 📊 Github Streak Stats 
+
+![githubstreak](https://streak-stats.demolab.com?user=nikitabansode05&theme=highcontrast&border_radius=5.4)
+
+
+  <img src="https://visitcount.itsvg.in/api?id=nikitabansode05&label=Profile%20Views&color=11&icon=5&pretty=true" width="200" height="35" />
+
+
 ## 🌐 Connect with me
 
 [www.linkedin.com/in/nikita-bansode05] • 
