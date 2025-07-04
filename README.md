@@ -5,13 +5,13 @@ I'm a third year computer engineering student passionate about full-stack develo
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: [TFL Assesment]
-- 🌱 I’m learning: [C,C++,C#,JAVA,Node JS]
+- 🌱 I’m learning: [C,C++,C#,JAVA,Node JS,Python,SQL,HTML,CSS]
 - 📫 How to reach me: [www.linkedin.com/in/nikita-bansode05]
 - ⚡ Fun fact: [Developer with an artistic mind]
 
 ## 🛠️ Languages & Tools
 
-[Java,C,C++,JAVA ]
+[C,C++,JAVA ]
 
 ## 👀 Most Used Languages 
 
