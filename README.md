@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Nikita Bansode
 
-I'm a third year computer engineering student passionate about full-stack development .
+I'm a third-year Computer Engineering student with a love for problem-solving and building cool things. I'm currently diving deep into **FULLSTACK DEVELOPMENT** and always eager to learn new technologies.
+
 
 ## 🚀 About Me
 
+- 🎓 I'm currently studying Computer Engineering at **SINHGAD INSTITUTE OF TECHNOLOGY**.
 - 🔭 I’m currently working on: [TFL Assesment]
 - 🌱 I’m learning: [C,C++,C#,JAVA,Node JS,Python,SQL,HTML,CSS]
 - 📫 How to reach me: [www.linkedin.com/in/nikita-bansode05]
