@@ -6,14 +6,14 @@ I'm a third-year Computer Engineering student with a love for problem-solving an
 ## 🚀 About Me
 
 - 🎓 I'm currently studying Computer Engineering at **SINHGAD INSTITUTE OF TECHNOLOGY**.
-- 🔭 I’m currently working on: [TFL Assesment]
-- 🌱 I’m learning: [C,C++,C#,JAVA,Node JS,Python,SQL,HTML,CSS]
+- 🔭 I’m currently working on: **[TFL Assesment]**
+- 🌱 I’m learning: **SOFTWARE TESTING , SOFTWARE ENGINEERING , REST API**
 - 📫 How to reach me: [www.linkedin.com/in/nikita-bansode05]
 - ⚡ Fun fact: [Developer with an artistic mind]
 
 ## 🛠️ Languages & Tools
 
-[C,C++,JAVA ]
+[C,C++,C#,JAVA,Node JS,Python,SQL,HTML,CSS]
 
 ## 👀 Most Used Languages 
 
