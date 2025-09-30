@@ -19,6 +19,10 @@ I'm a third-year Computer Engineering student with a love for problem-solving an
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitabansode05&layout=compact)
 
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikitabansode05&theme=github-dark&hide_border=true)
+
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitabansode05&show_icons=true&hide_title=true)
