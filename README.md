@@ -13,8 +13,8 @@ I'm a third-year Computer Engineering student with a love for problem-solving an
 
 ## 🛠️ Languages & Tools
 
-[C,C++,C#,JAVA,Node JS,Python,SQL,HTML,CSS]
-[Selenium,Maven]
+- [C,C++,C#,JAVA,Node JS,Python,SQL,HTML,CSS]
+- [Selenium,Maven]
 
 ## 👀 Most Used Languages 
 
