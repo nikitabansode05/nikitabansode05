@@ -7,14 +7,14 @@ I'm a third-year Computer Engineering student with a love for problem-solving an
 
 - 🎓 I'm currently studying Computer Engineering at **SINHGAD INSTITUTE OF TECHNOLOGY**.
 - 🔭 I’m currently working on: **[TFL Assesment]**
-- 🌱 I’m learning: **SOFTWARE TESTING , SOFTWARE ENGINEERING , REST API**
+- 🌱 I’m learning: **SOFTWARE TESTING , SOFTWARE ENGINEERING , REST API , RAABBIT MQ , DOCKER**
 - 📫 How to reach me: [www.linkedin.com/in/nikita-bansode05]
 - ⚡ Fun fact: [Developer with an artistic mind]
 
 ## 🛠️ Languages & Tools
 
-- [C,C++,C#,JAVA,Node JS,Python,SQL,HTML,CSS]
-- [Selenium,Maven,TestNG]
+- [C,C++,C#,JAVA,Node JS,Python,SQL,HTML,CSS,Bootstrap,React]
+- [Selenium,Maven,TestNG,Docker.RabbitMQ]
 
 ## 👀 Most Used Languages 
 
